@@ -7,6 +7,7 @@ import {
 } from 'react';
 
 import EditUser from './components/EditUser';
+import AddUser from './components/AddUser';
 import Navbar from './components/Navbar';
 import {
   BrowserRouter as Router,
